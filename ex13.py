@@ -1,3 +1,6 @@
+# python3 ex13.py Run On Terminal
+# Run on terminal this ^
+
 # import from sys the argv module
 from sys import argv
 
